@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualemte busco trabalhar com front end
-- 🌱 Estudando Pthon,Javasccript,html,css
+- 🌱 Estudando Python,Javascript,html,css
 
 <div align="center">
   <a href="https://github.com/ErikSilveira">
