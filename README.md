@@ -2,13 +2,13 @@
 
 
 
-- 🔭 Atualemte busco trabalhar com front end
+- 🔭 Atualmente busco trabalhar na area front end
 - 🌱 Estudando Python,Javascript,html,css
 
 <div align="center">
   <a href="https://github.com/ErikSilveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSilveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=ErikSilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSilveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
