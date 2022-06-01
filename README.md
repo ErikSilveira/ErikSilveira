@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente busco trabalhar na area front end
-- 🌱 Estudando Python,Javascript,html,css
+- 🌱 Cursando Análise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/ErikSilveira">
