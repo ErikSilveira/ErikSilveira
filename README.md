@@ -1,13 +1,13 @@
 
 <h1 align="center"> Opa 👋, Eu sou Erik</h1>
 <h3 align="center">Um Desenvolvedor do  Brasil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/intense-anime-gif-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriksilveira&label=Profile%20views&color=0e75b6&style=flat" alt="eriksilveira" /> </p>
 
 - 🌱 No momento estou aprendendo **UI Design, React, Inglês**
 
-- 👨‍💻Todos os meus projetos estão disponíveis em [https://thiscodes.herokuapp.com/](https://thiscodes.herokuapp.com/)
+- 👨‍💻Todos os meus projetos estão disponíveis em [https://mywork-eriksilveira.com](https://mywork-eriksilveira.herokuapp.com/)
 
 - 💬Fale comigo sobre **Javascript, bootstrap...**
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eriksilveira&show_icons=true&locale=en&layout=compact" alt="eriksilveira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eriksilveira&show_icons=true&locale=en" alt="eriksilveira" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=eriksilveira&show_icons=true&locale=en" alt="eriksilveira" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eriksilveira&" alt="eriksilveira" /></p>
+
