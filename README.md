@@ -1,7 +1,7 @@
 
 <h1 align="center"> Opa 👋, Eu sou Erik</h1>
 <h3 align="center">Um Desenvolvedor do  Brasil</h3>
-<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/intense-anime-gif-1.gif">
+<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2018/11/intense-anime-gif-1.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriksilveira&label=Profile%20views&color=0e75b6&style=flat" alt="eriksilveira" /> </p>
 
