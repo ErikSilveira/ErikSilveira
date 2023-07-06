@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriksilveira&label=Profile%20views&color=0e75b6&style=flat" alt="eriksilveira" /> </p>
 
-- 🌱 No momento estou aprendendo **UI Design, React, Inglês**
-
-- 👨‍💻Todos os meus projetos estão disponíveis em [https://mywork-eriksilveira.com](https://mywork-eriksilveira.herokuapp.com/)
+- 🌱 No momento estou aprendendo **UI Design, PHP,Inglês **
 
 - 💬Fale comigo sobre **Javascript, bootstrap...**
 
